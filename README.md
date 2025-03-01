@@ -1,7 +1,8 @@
 # Aleo Auction Program
 
-# Deployment at17pgtwdq8zen08pya5v4z0dw2l3qggx7jemuutdh2m995f4hdzgysnz3kqy
+# Deployment at1c9q6ycaug8cx3zzf6vc2642qx2j9qldlq2mkksd4dd404flulgyq5rdkqs
 
+# Execute at1rvpeehylurxwenh0x4gprx3hx0z9hc9srqugysugad7jhg4505psms9mry
 
 This is an auction program built on the Aleo blockchain. It allows users to place bids, resolve the auction to determine the winner, and finalize the auction by assigning the winning bid.
 
